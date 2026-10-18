@@ -20,3 +20,16 @@
 2. Положите все 7 исходных CSV-файлов в папку `data/`
 3. Запустите скрипт: `python anime_etl.py`
 4. Результаты появятся в папке `output/` (файлы `anime_clean_data_v3.csv`, `anime_clean_data_v3.xlsx` и `anime_database.db`).
+
+screenshots
+<img width="1168" height="661" alt="image" src="https://github.com/user-attachments/assets/ea6d8831-6c16-4098-ba7f-b224d59d13ba" />
+<img width="1171" height="667" alt="image" src="https://github.com/user-attachments/assets/1d8a33b8-c488-43d4-9803-78ae03de55c8" />
+<img width="1167" height="665" alt="image" src="https://github.com/user-attachments/assets/2b83c0b7-0cdb-4b60-bba0-b598e88f9066" />
+<img width="1163" height="661" alt="image" src="https://github.com/user-attachments/assets/3d29586b-2fcd-4227-b066-08b0cd9562d0" />
+<img width="1172" height="663" alt="image" src="https://github.com/user-attachments/assets/c984aacb-01b4-4e31-b774-9177cab05666" />
+<img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/a21989e7-8bd4-457b-93fc-2994ed3aed55" />
+
+
+
+
+
